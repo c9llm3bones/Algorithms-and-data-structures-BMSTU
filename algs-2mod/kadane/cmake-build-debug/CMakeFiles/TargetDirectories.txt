@@ -1,0 +1,3 @@
+/home/kostya/1_sem/algs-2mod/kadane/cmake-build-debug/CMakeFiles/kadane.dir
+/home/kostya/1_sem/algs-2mod/kadane/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kostya/1_sem/algs-2mod/kadane/cmake-build-debug/CMakeFiles/rebuild_cache.dir

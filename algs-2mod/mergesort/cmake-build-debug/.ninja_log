@@ -1,0 +1,5 @@
+# ninja log v5
+0	32	1670539484691580611	CMakeFiles/mergesort.dir/main.c.o	a3e6b9f2fa0b497
+32	55	1670539484715580217	mergesort	f003cd36a55803da
+0	37	1670575067926288907	CMakeFiles/mergesort.dir/main.c.o	a3e6b9f2fa0b497
+37	62	1670575067950288352	mergesort	f003cd36a55803da

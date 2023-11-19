@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671353538 source:/home/kostya/1_sem/algs-2mod/2.8/qcost/main.c
+	<stdio.h>
+	<stdlib.h>
+
