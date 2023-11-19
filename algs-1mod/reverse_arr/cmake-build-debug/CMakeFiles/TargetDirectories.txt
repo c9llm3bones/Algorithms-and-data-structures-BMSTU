@@ -1,0 +1,3 @@
+/home/kostya/1_sem/algs-1mod/reverse_arr/cmake-build-debug/CMakeFiles/reverse_arr.dir
+/home/kostya/1_sem/algs-1mod/reverse_arr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kostya/1_sem/algs-1mod/reverse_arr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
