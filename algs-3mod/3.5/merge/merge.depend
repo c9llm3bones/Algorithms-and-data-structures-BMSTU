@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674562955 source:/home/kostya/1_sem/algs-3mod/3.5/merge/main.c
+	<stdio.h>
+	<stdlib.h>
+

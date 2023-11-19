@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674555802 source:/home/kostya/1_sem/algs-3mod/3.6/cluster/main.c
+	<stdio.h>
+	<stdlib.h>
+
